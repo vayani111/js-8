@@ -1,0 +1,29 @@
+.main{
+    border: 2px solid rgb(0, 0, 0);
+    width: 200px;
+    margin: 0 auto;
+}
+.result{
+    width: 95%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.clearbtn{
+    color: white;
+    width: 100%;
+    margin-top: 10px;
+    background-color: rgb(0, 0, 0);
+}
+.btn{
+    background-color: rgb(0, 0, 0);
+    width: 45px;
+    margin: 1px;
+    color: white;
+}
+.btn1{
+
+    background-color: rgb(0, 0, 0);
+    width: 97px;
+    margin-top: 5px;
+    color: white;
+}
